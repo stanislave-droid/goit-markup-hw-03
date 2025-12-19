@@ -1,0 +1,228 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  font-style: normal;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.accent-logo-piece {
+  color: #4d5ae5;
+}
+
+/* ----------------- HEADER ----------------- */
+
+.header-logo {
+  color: #2e2f42;
+}
+
+.header-navigation-panel {
+}
+
+.header-navigation-panel-list {
+}
+
+.header-navigation-panel-items {
+}
+
+.header-navigation-panel-items-text {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.header-navigation-panel-items-text:hover {
+  color: #404bbf;
+}
+
+.header-navigation-panel-items-text:focus {
+  color: #404bbf;
+}
+
+.header-contacts {
+}
+
+.header-contacts-list {
+}
+
+.header-contacts-items {
+}
+
+.header-contacts-items-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.header-contacts-items-text:hover {
+  color: #404bbf;
+}
+
+.header-contacts-items-text:focus {
+  color: #404bbf;
+}
+
+/* ----------------- HERO / ORDER SERVICE ----------------- */
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero-heading {
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+
+.hero-btn {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  cursor: pointer;
+  background-color: #4d5ae5;
+}
+
+.hero-btn:hover {
+  background-color: #404bbf;
+}
+
+.hero-btn:focus {
+  background-color: #404bbf;
+}
+
+/* ----------------- FEATURES ----------------- */
+
+.features {
+}
+
+.features-heading {
+}
+
+.features-list {
+}
+
+.features-items {
+}
+
+.features-items-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.features-items-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* ----------------- TEAM ----------------- */
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-heading {
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-list {
+}
+
+.team-items {
+  background-color: #fff;
+}
+
+.team-items-img {
+}
+
+.team-items-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-items-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+/* ----------------- PORTFOLIO ----------------- */
+
+.portfolio {
+}
+
+.portfolio-heading {
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.portfolio-list {
+}
+
+.portfolio-items {
+}
+
+.portfolio-items-img {
+}
+
+.portfolio-items-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-items-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* ----------------- FOOTER ----------------- */
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
