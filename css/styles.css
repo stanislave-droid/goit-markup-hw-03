@@ -238,6 +238,7 @@ p {
 }
 
 .team-items-img {
+  display: block;
 }
 
 .team-cards-content {
@@ -286,6 +287,7 @@ p {
 }
 
 .portfolio-items-img {
+  display: block;
 }
 
 .portfolio-cards-content {
