@@ -233,6 +233,7 @@ p {
   background-color: #fff;
   height: 380px;
   width: calc((100% - 72px) / 4);
+  border-radius: 0 0 4px 4px;
 }
 
 .team-items-img {
